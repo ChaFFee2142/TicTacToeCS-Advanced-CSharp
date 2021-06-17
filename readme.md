@@ -2,6 +2,6 @@
 **Projekt #1**
 
 Grupa:
-Volodymyr Boiko
+Volodymyr Boiko\n
 Anton Krasitskyi
 Mateusz Jarząbek
