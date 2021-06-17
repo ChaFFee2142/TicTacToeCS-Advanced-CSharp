@@ -4,6 +4,6 @@
 -------------
 
 Grupa:  
-***Volodymyr Boiko***  
-Anton Krasitskyi  
-Mateusz Jarząbek  
+***Volodymyr Boiko 48666***  
+Anton Krasitskiy 49137 
+Mateusz Jarząbek 48696  
