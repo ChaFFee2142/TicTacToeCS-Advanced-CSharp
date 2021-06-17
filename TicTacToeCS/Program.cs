@@ -177,7 +177,7 @@ namespace TicTacToeCS
                                                                                          //
             if (LastPlayer == PlayerType.AI)                                             // AI Phrases logic
             {                                                                            //
-                if (LastScore > 5)
+                if (LastScore > 44 && checkWin()==0)
                 {
                     Console.WriteLine("My victory is close!\n");
                 }
@@ -407,11 +407,11 @@ namespace TicTacToeCS
                 {
                     if (isMaximizing)
                     {
-                        return 1;
+                        return 50 - depth;
                     }
                     else if (!isMaximizing)
                     {
-                        return -1;
+                        return -50 - depth;
 
                     }
                 }
