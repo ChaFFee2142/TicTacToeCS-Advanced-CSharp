@@ -1,5 +1,5 @@
-Zaawansowany C# 
-Projekt #1
+**Zaawansowany C#**
+**Projekt #1**
 
 Grupa:
 Volodymyr Boiko
